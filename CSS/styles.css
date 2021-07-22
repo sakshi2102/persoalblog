@@ -1,0 +1,123 @@
+body{
+  margin: 0;
+  }
+a{
+  font-family: monospace;
+  text-decoration: none;
+  color: #DF5E5E;
+  padding:5px;
+  font-size:15px;
+}
+a:hover{
+  text-decoration: underline;
+  color: #FFFFFF;
+}
+.cloud1{
+  position: absolute;
+  left: 40px;
+
+}
+.cloud2{
+  position: absolute;
+  right: 30px;
+  top:80px;
+}
+.profile{
+  margin-top: 100px;
+  width:220px;
+  height: 220px;
+}
+  .top{
+  text-align: center;
+  width:100%;
+  position: relative;
+  background-color: #FDF6F0;
+  padding-bottom: 60px;
+}
+hr{
+  margin-top: 5px;
+  border: dotted #F8E2CF;
+  border-bottom: none;
+  width: 7%;
+}
+.middle{
+  padding-top: 20px;
+  padding-bottom: 40px;
+  background-color: #FDF6F0;
+  text-align: center;
+  width: 100%;
+}
+
+.bottom{
+  background-color: #F5C6AA;
+  text-align: center;
+  padding-top: 2px;
+  padding-bottom: 20px;
+  width:100%;
+}
+.work{
+  color: #ED8E7C;
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: 'Merriweather', serif;
+  margin-bottom: 20px;
+}
+.Poetry{
+  width: 50%;
+  margin: 60px auto 50px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.Articles{
+  width:50%;
+  margin: 100px auto 50px auto;
+  line-height: 1.5;
+  text-align: left;
+}
+.MyWork{
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+.myworkpic1{
+  float: left;
+  margin-right: 50px;
+}
+
+ .myworkpic2{
+   float:right;
+   margin-left: 50px;
+ }
+ .contact{
+   float: left;
+   margin-left: 80px;
+ }
+
+h1{
+  margin: 70px auto 0 auto;
+  color: #DF5E5E;
+  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+  text-decoration: none;
+
+}
+h2{
+  color: #FFF1F1;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.5;
+  font-size: 32px;
+}
+h3{
+  font-weight: normal;
+  font-size: 15px;
+  margin: 50px auto 0 auto;
+  width: 50%;
+  color:#A19882;
+  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+}
+h4{
+  color: #ED8E7C;
+  font-family: 'Merriweather', serif;
+}
+.paragraph{
+  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+  color: #423F3E;
+}
